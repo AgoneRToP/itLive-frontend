@@ -36,8 +36,8 @@ export default function MentorSidebar() {
           }`}
         >
           <Image 
-            src="/Kebyu_logo_purple.png" 
-            alt="Kebyu" 
+            src="/ITLive.png" 
+            alt="ITLive" 
             width={160} 
             height={48} 
             className="h-10 w-auto object-contain brightness-0 invert" 

@@ -90,8 +90,8 @@ export default function Navbar() {
         <div className="flex items-center gap-10 xl:gap-14">
           <Link href="/" className="flex items-center">
             <Image
-              src="/Kebyu_logo_purple.png"
-              alt="Kebyu Logo"
+              src="/ITLive.png"
+              alt="ITLive"
               width={140}
               height={45}
               priority

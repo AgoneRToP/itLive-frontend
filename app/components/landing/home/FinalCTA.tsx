@@ -116,8 +116,8 @@ export default function FinalCTA() {
         {/* ── Brand Logo ────────────────────────────────────────────── */}
         <div className="flex items-center justify-center mb-2">
           <Image
-            src="/Kebyu_logo_purple.png"
-            alt="Kebyu Logo"
+            src="/ITLive.png"
+            alt="ITLive"
             width={160}
             height={50}
             className="h-auto w-[160px] object-contain dark:brightness-0 dark:invert"

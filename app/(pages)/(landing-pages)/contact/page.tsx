@@ -312,7 +312,7 @@ export default function ContactPage() {
                     isDark ? "text-[#8A99AD]" : "text-slate-500"
                   }`}
                 >
-                  info@kebyu.uz
+                  info@ITLive.uz
                 </p>
               </div>
             </div>

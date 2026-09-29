@@ -49,8 +49,8 @@ export default function Sidebar() {
           }`}
         >
           <Image 
-            src="/Kebyu_logo_purple.png" 
-            alt="Kebyu" 
+            src="/ITLive.png" 
+            alt="ITLive" 
             width={160} 
             height={48} 
             style={{ width: "auto", height: "auto" }}

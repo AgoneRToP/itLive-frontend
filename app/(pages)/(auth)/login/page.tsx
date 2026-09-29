@@ -74,7 +74,7 @@ export default function LoginPage() {
 
           {/* LOGO */}
           <div className="absolute left-7 top-6">
-            <Image src="/Kebyu_logo_purple.png" alt="Kebyu Logo" width={140} height={40} className="object-contain" style={{ width: "auto", height: "auto" }} />
+            <Image src="/ITLive.png" alt="ITLive" width={140} height={40} className="object-contain" style={{ width: "auto", height: "auto" }} />
           </div>
 
           {/* LOGIN FORM */}
@@ -179,7 +179,7 @@ export default function LoginPage() {
 
           <Image
             src={loginImage}
-            alt="Kebyu LMS"
+            alt="ITLive LMS"
             fill
             loading="eager"
             sizes="(max-width: 768px) 100vw, 50vw"
